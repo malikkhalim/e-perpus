@@ -1,5 +1,4 @@
-# E-PERPUS
- Aplikasi perpustakaan sederhana ini dibuat Oleh Kelompok 21 Studi Independent MBKM Batch 3 dan Menggunakan bahasa pemograman PHP MySQLI. <br> <br>
+# E-LIBRARY
 # Akun Administrator
 Username : admin
 <br>
