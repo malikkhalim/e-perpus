@@ -1,6 +1,6 @@
 <header class="main-header">
     <!-- Logo -->
-    <a href="dashboard" class="logo" style="font-family: 'Quicksand', sans-serif">
+    <a href="dashboard" class="logo" style="font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif">
         <!-- mini logo for sidebar mini 50x50 pixels -->
         <span class="logo-mini"><i class="fa fa-book"></i></span>
         <!-- logo for regular state and mobile devices -->
@@ -75,7 +75,7 @@
                                             <div class="pull-left">
                                                 <img src="../../assets/dist/img/avatar.png" class="img-circle" alt="User Image">
                                             </div>
-                                            <h4 style="font-family: 'Quicksand', sans-serif">
+                                            <h4 style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif">
                                                 <?php
                                                 include "../../config/koneksi.php";
 

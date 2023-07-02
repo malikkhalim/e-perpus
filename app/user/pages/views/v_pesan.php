@@ -2,7 +2,7 @@
 <div class="content-wrapper">
     <!-- Content Header (Page header) -->
     <section class="content-header">
-        <h1 style="font-family: 'Quicksand', sans-serif; font-weight: bold;">
+        <h1 style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; font-weight: bold;">
             Pesan
             <small>
                 <script type='text/javascript'>
@@ -153,7 +153,7 @@
                 <div class="modal-header">
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                         <span aria-hidden="true">&times;</span></button>
-                    <h4 class="modal-title" style="font-family: 'Quicksand', sans-serif; font-weight: bold;">Kirim Pesan</h4>
+                    <h4 class="modal-title" style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; font-weight: bold;">Kirim Pesan</h4>
                 </div>
                 <div class="modal-body">
                     <input type="hidden" name="pengirim" value="<?= $_SESSION['fullname']; ?>">

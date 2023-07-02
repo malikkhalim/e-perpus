@@ -2,7 +2,7 @@
 <div class="content-wrapper">
     <!-- Content Header (Page header) -->
     <section class="content-header">
-        <h1 style="font-family: 'Quicksand', sans-serif; font-weight: bold;">
+        <h1 style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; font-weight: bold;">
             Profil Saya
             <small>
                 <script type='text/javascript'>
@@ -32,7 +32,7 @@
             <div class="col-md-8">
                 <div class="box">
                     <div class="box-header">
-                        <h3 class="box-title" style="font-family: 'Quicksand', sans-serif; font-weight: bold;">Edit Profil Saya</h3>
+                        <h3 class="box-title" style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; font-weight: bold;">Edit Profil Saya</h3>
                     </div>
                     <!-- /.box-header -->
                     <form action="pages/function/Profile.php?aksi=edit" method="POST" enctype="multipart/form-data">
@@ -124,7 +124,7 @@
             <div class="col-md-4">
                 <div class="box">
                     <div class="box-header">
-                        <h3 class="box-title" style="font-family: 'Quicksand', sans-serif; font-weight: bold;">Profil Saya</h3>
+                        <h3 class="box-title" style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; font-weight: bold;">Profil Saya</h3>
                     </div>
                     <!-- /.box-header -->
                     <div class="box-body">

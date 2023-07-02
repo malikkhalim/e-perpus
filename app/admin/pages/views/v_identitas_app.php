@@ -2,7 +2,7 @@
 <div class="content-wrapper">
     <!-- Content Header (Page header) -->
     <section class="content-header">
-        <h1 style="font-family: 'Quicksand', sans-serif; font-weight: bold;">
+        <h1 style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; font-weight: bold;">
             Identitas Applikasi
             <small>
                 <script type='text/javascript'>
@@ -32,7 +32,7 @@
             <div class="col-md-8">
                 <div class="box">
                     <div class="box-header">
-                        <h3 class="box-title" style="font-family: 'Quicksand', sans-serif; font-weight: bold;">Edit Identitas Applikasi</h3>
+                        <h3 class="box-title" style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; font-weight: bold;">Edit Identitas Applikasi</h3>
                     </div>
                     <!-- /.box-header -->
                     <form action="pages/function/Identitas.php?aksi=edit" method="POST" enctype="multipart/form-data">
@@ -45,7 +45,7 @@
                         <div class="box-body">
                             <input name="id_identitas" type="hidden" value="1">
                             <div class="form-group">
-                                <label for="nameApp">Nama Applikasi</label>
+                                <label for="nameApp">Nama Aplikasi</label>
                                 <input type="text" class="form-control" id="nameApp" value="<?= $row['nama_app']; ?>" name="App" required>
                             </div>
                             <div class="form-group">
@@ -73,15 +73,15 @@
             <div class="col-md-4">
                 <div class="box">
                     <div class="box-header">
-                        <h3 class="box-title" style="font-family: 'Quicksand', sans-serif; font-weight: bold;">Identitas Applikasi</h3>
+                        <h3 class="box-title" style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; font-weight: bold;">Identitas Aplikasi</h3>
                     </div>
                     <!-- /.box-header -->
                     <div class="box-body">
-                        <img src="../../assets/dist/img/logo_app.png" style="width: 125px; height: 125px; display: block; margin-left: auto; margin-right: auto; margin-top: -10px; margin-bottom: 15px;">
+                        <img src="../../assets/dist/img/n_logo_app.png" style="width: 125px; height: 125px; display: block; margin-left: auto; margin-right: auto; margin-top: -10px; margin-bottom: 15px;">
                         <!-- Animasi -->
                         <!--<lottie-player src="../../assets/json/3151-books.json" background="transparent" speed="1" style="width: 125px; height: 125px; display: block; margin-left: auto; margin-right: auto; margin-top: -50px; margin-bottom: 15px;" loop autoplay></lottie-player>
                         -->
-                        <p style="font-weight: bold;">Nama Applikasi : <?= $row['nama_app']; ?></p>
+                        <p style="font-weight: bold;">Nama Aplikasi : <?= $row['nama_app']; ?></p>
                         <p style="font-weight: bold;">Alamat : <?= $row['alamat_app']; ?></p>
                         <p style="font-weight: bold;">Email : <?= $row['email_app']; ?></p>
                         <p style="font-weight: bold;">Nomor Telepon : <?= $row['nomor_hp']; ?></p>

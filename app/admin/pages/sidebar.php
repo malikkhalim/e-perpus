@@ -34,7 +34,7 @@
             <li><a href="dashboard"><i class="fa fa-home"></i> <span>Dashboard</span></a></li>
             <li class="treeview">
                 <a href="#">
-                    <i class="fa fa-folder"></i>
+                    <i class="fa fa-folder-open"></i>
                     <span>Master Data</span>
                     <span class="pull-right-container">
                         <i class="fa fa-angle-left pull-right"></i>
@@ -60,7 +60,7 @@
                     <li><a href="kategori-buku"><i class="fa fa-circle-o"></i> Kategori Buku</a></li>
                 </ul>
             </li>
-            <li><a href="laporan"><i class="fa fa-book"></i> <span>Laporan Perpustakaan</span></a></li>
+            <li><a href="laporan"><i class="fa fa-bookmark"></i> <span>Laporan Perpustakaan</span></a></li>
             <li class="header">LAIN LAIN</li>
             <li><a href="identitas-app"><i class="fa fa-info"></i> <span>Identitas Applikasi</span></a></li>
             <li><a href="pesan"><i class="fa fa-envelope"></i> <span>Pesan</span>
@@ -99,7 +99,7 @@
             <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                     <span aria-hidden="true">&times;</span></button>
-                <h4 class="modal-title" style="font-family: 'Quicksand', sans-serif; font-weight: bold;">Peringatan</h4>
+                <h4 class="modal-title" style="font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; font-weight: bold;">Peringatan</h4>
             </div>
             <div class="modal-body">
                 <span>Apa anda yakin ingin keluar dari Applikasi ? <br>

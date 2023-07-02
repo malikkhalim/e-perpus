@@ -1,7 +1,5 @@
 # E-PERPUS
- Aplikasi perpustakaan sederhana ini dibuat menggunakan Template admin dari AdminLTE.io dan Menggunakan bahasa pemograman PHP MySQLI. <br> <br>
- Aplikasi ini bebas untuk di kembangkan lagi atau untuk bahan pembelajaran kalian bagi yang mau membuat applikasi perpustakaan, mungkin bisa mengambil contoh dari applikasi ini :)
-
+ Aplikasi perpustakaan sederhana ini dibuat Oleh Kelompok 21 Studi Independent MBKM Batch 3 dan Menggunakan bahasa pemograman PHP MySQLI. <br> <br>
 # Akun Administrator
 Username : admin
 <br>
@@ -25,12 +23,3 @@ Password : admin
      <li> Semoga Bermanfaat </li>
 </ul>
 
-# Terima Kasih
-<ul>
-    <li> AdminLTE </li>
-    <li> PT. Pacifica Raya Technology </li>
-    <li> Stackover Flow </li>
-    <li> Google </li>
-    <li> Github </li>
-    <li> Malasngoding.com </li>
-</ul>

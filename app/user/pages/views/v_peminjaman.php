@@ -2,7 +2,7 @@
 <div class="content-wrapper">
     <!-- Content Header (Page header) -->
     <section class="content-header">
-        <h1 style="font-family: 'Quicksand', sans-serif; font-weight: bold;">
+        <h1 style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; font-weight: bold;">
             Peminjaman Buku
             <small>
                 <script type='text/javascript'>

@@ -2,7 +2,7 @@
 <div class="content-wrapper">
     <!-- Content Header (Page header) -->
     <section class="content-header">
-        <h1 style="font-family: 'Quicksand', sans-serif; font-weight: bold;">
+        <h1 style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; font-weight: bold;">
             Dashboard
             <small>
                 <script type='text/javascript'>
@@ -21,7 +21,7 @@
             </small>
         </h1>
         <ol class="breadcrumb">
-            <li><a href="dashboard"><i class="fa fa-dashboard"></i> Home</a></li>
+            <li><a href="dashboard"><i class="fa fa-table"></i> Home</a></li>
             <li class="active">Dashboard</li>
         </ol>
     </section>
@@ -124,7 +124,7 @@
 
             ?>
 
-            <img src="../../assets/dist/img/logo_app.png" width="120px" height="120px" style="display: block; margin-left: auto; margin-right: auto; margin-top: 30px; margin-bottom: -20px;">
+            <img src="../../assets/dist/img/n_logo_app.png" width="120px" height="120px" style="display: block; margin-left: auto; margin-right: auto; margin-top: 30px; margin-bottom: 20px;">
 
             <h2 class="text-center" style="font-family: Quicksand, sans-serif;"><?= $row['nama_app']; ?></h2>
             <p class="text-center">Alamat : <?= $row['alamat_app']; ?>| Email : <?= $row['email_app']; ?> | Nomor Telpon : <?= $row['nomor_hp']; ?> </p>

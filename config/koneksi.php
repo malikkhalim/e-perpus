@@ -1,11 +1,9 @@
 <?php
-//------------------------------::::::::::::::::::::------------------------------\\
-// Dibuat oleh FA Team di PT. Pacifica Raya Technology \\
-//------------------------------::::::::::::::::::::------------------------------\\
+
 $server = "localhost";
 $username = "root";
 $password = "";
-$database = "db_perpustakaan";
+$database = "gryffindor";
 
 $koneksi = mysqli_connect($server, $username, $password, $database);
 

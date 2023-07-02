@@ -2,7 +2,7 @@
 <div class="content-wrapper">
     <!-- Content Header (Page header) -->
     <section class="content-header">
-        <h1 style="font-family: 'Quicksand', sans-serif; font-weight: bold;">
+        <h1 style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; font-weight: bold;">
             Data Penerbit
             <small>
                 <script type='text/javascript'>
@@ -32,7 +32,7 @@
             <div class="col-xs-12">
                 <div class="box">
                     <div class="box-header">
-                        <h3 class="box-title" style="font-family: 'Quicksand', sans-serif; font-weight: bold;">Data Penerbit</h3>
+                        <h3 class="box-title" style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; font-weight: bold;">Data Penerbit</h3>
                         <div class="form-group m-b-2 text-right" style="margin-top: -20px; margin-bottom: -5px;">
                             <button type="button" onclick="tambahPenerbit()" class="btn btn-info"><i class="fa fa-plus"></i> Tambah Penerbit</button>
                         </div>
@@ -85,7 +85,7 @@
                                                 <div class="modal-header">
                                                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                                         <span aria-hidden="true">&times;</span></button>
-                                                    <h4 class="modal-title" style="font-family: 'Quicksand', sans-serif; font-weight: bold;">
+                                                    <h4 class="modal-title" style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; font-weight: bold;">
                                                         Edit Penerbit ( <?= $row['kode_penerbit']; ?> - <?= $row['nama_penerbit']; ?> )
                                                     </h4>
                                                 </div>
@@ -151,7 +151,7 @@
             <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                     <span aria-hidden="true">&times;</span></button>
-                <h4 class="modal-title" style="font-family: 'Quicksand', sans-serif; font-weight: bold;">Tambah Penerbit</h4>
+                <h4 class="modal-title" style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; font-weight: bold;">Tambah Penerbit</h4>
             </div>
             <form action="pages/function/Penerbit.php?act=tambah" enctype="multipart/form-data" method="POST">
                 <div class="modal-body">
